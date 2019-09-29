@@ -10,4 +10,6 @@ middleware(koa);
 koa.listen(2345, ()=>{
     console.log("The service is already running on port 2345");
 });
-
+console.log('====================================');
+console.log("aaa");
+console.log('====================================');
